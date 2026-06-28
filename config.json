@@ -2,14 +2,14 @@
   "MainBot": {
     "source": "https://github.com/LOEZws3/main_bot.git",
     "env": {
-      "BOT_TOKEN": "8888839728:AAHB9D1SDl_QPEe0naHIoReQhlxKz6_zwNc"
+      "BOT_TOKEN": ""
     },
     "run": "main.py"
   },
   "ForwardBot": {
     "source": "https://github.com/LOEZws3/forward_bot.git",
     "env": {
-      "BOT_TOKEN": "8646829484:AAGknO1ViRqM6rneI67ZT4Q9pvp08cH8Hs4",
+      "BOT_TOKEN": "",
       "ADMIN_GROUP_ID": "-1004426618768"
     },
     "run": "main.py"
